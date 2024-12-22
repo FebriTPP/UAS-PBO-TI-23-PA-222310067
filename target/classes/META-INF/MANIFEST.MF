@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: ACER ONE 14
+Build-Jdk: 22.0.2
+Created-By: Maven Integration for Eclipse
+
